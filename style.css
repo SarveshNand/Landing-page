@@ -75,6 +75,9 @@ nav a {
     width: 500px;
     height: 250px;
     display: flex;
+    background-image: url(https://images.unsplash.com/photo-1715783735932-2aaa7bcfab34?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNwaWRlcm1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600);
+    background-position: center;
+    background-size: cover;
     justify-content: center;
     align-items: center;
     color: #E5E7EB;
@@ -108,6 +111,30 @@ nav a {
       width: 150px;
       height: 150px;
       margin-bottom: 10px;
+}
+
+.info-box .one{
+    background-image: url(https://imgs.search.brave.com/_umaJzqddcu0agfRxnIOY9EK_MhumRsOahNFtRuGusU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/d2h5LWFyZS1zcGlk/ZXItbWFucy13ZWJz/LXNvbWV0aW1lcy1k/cmF3bi13aXRoLXNv/bWUtd2ViLXYwLXJl/bmhyem00bDhnYjEu/anBnP3dpZHRoPTYw/MiZmb3JtYXQ9cGpw/ZyZhdXRvPXdlYnAm/cz1hODBmMTllMWFh/ZDkyMDM1ODA0NTY5/ODhkYjk3NzZkOGI5/ODM0YWQw);
+    background-position: center;
+    background-size: cover;
+}
+
+.info-box .two{
+    background-image: url(https://imgs.search.brave.com/15xt2O0enHpeN1ORjviMfwY5VRYHykJNjGDt6TNpdLU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/ZG8teW91LXBlcnNv/bmFsbHktbWluZC10/ZWVuYWdlLXNwaWRl/ci1tYW4tYXMtbG9u/Zy1hcy10aGUtdjAt/MWxiM2RxNHZjMnBl/MS5qcGVnP3dpZHRo/PTY0MCZjcm9wPXNt/YXJ0JmF1dG89d2Vi/cCZzPWYzY2E4ZDlj/ZmQxYzlkNjI2ODNi/YTFmODRiZjc0NDlm/YjIyNTJhMzE);
+    background-position: top;
+    background-size: cover;
+}
+
+.info-box .three{
+    background-image: url(https://imgs.search.brave.com/-qaA2S-2SLcijngNlxMNh7v4l5SHK2eQCar0faF_rwI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmNicmltYWdl/cy5jb20vd29yZHBy/ZXNzL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIxLzAxL1BFVEVS/LVBBUktFUi1KT0JT/LVBob3RvZ3JhcGhl/ci5qcGc_cT01MCZm/aXQ9Y3JvcCZ3PTgy/NSZkcHI9MS41);
+    background-position: center;
+    background-size: cover;
+}
+
+.info-box .four{
+    background-image: url(https://imgs.search.brave.com/4aRTtRgqntsinbdu_PtbMBYiuWv_-BNtssbdAasYLko/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDUzNDA0/NDUuanBn);
+    background-position: center;
+    background-size: cover;
 }
 
 .info-box p {
